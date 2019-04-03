@@ -1,0 +1,21 @@
+{
+    "name": "zynga-poker-hack/zynga-poker-hack-mod-apk-get-unlimited-chips",
+    "description": "Zynga Poker Hack Mod APK Get Unlimited Chips Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Zynga Poker",
+            "homepage": "http://zynga-poker.astuces.cf/en.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
